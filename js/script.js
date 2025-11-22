@@ -9,7 +9,7 @@ entryButton.addEventListener('click', function() {
     const inputValue = entryInput.value;
     
     // Show alert with your name prepended
-    alert('Charles E: ' + inputValue);
+    alert('Charles: ' + inputValue);
     
     // Change the h2 text to the input value
     textOutput.textContent = inputValue;
